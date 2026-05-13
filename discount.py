@@ -18,4 +18,4 @@ def apply_discount(price, discount):
 apply_discount(100, 20)
 apply_discount(200, 50)
 apply_discount(50, 0)
-apply_discount(74.5, 20.0
+apply_discount(74.5, 20.0)
